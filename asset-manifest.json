@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formularios-no-react-app/static/css/main.17ecb834.css",
+    "main.js": "/formularios-no-react-app/static/js/main.510e84dc.js",
+    "index.html": "/formularios-no-react-app/index.html",
+    "main.17ecb834.css.map": "/formularios-no-react-app/static/css/main.17ecb834.css.map",
+    "main.510e84dc.js.map": "/formularios-no-react-app/static/js/main.510e84dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ecb834.css",
+    "static/js/main.510e84dc.js"
+  ]
+}
